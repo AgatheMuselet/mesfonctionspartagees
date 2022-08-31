@@ -23,7 +23,7 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(mesfonctionspartagees)
-## basic example code
+## basic example code to ask for help within your package
 help(package="mesfonctionspartagees")
 ls("package:mesfonctionspartagees")
 ?mesfonctionspartagees::ImportData 
