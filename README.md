@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mesfonctionspartagees is to ...
+The goal of the package mesfonctionspartagees is to have the laste up to dates developpements of the team
 
 ## Installation
 
